@@ -2,4 +2,4 @@ n,encuestadora,fecha,muestra,tasa_respuesta,alejandro_gaviria,sergio_fajardo,jua
 1,Guarumo,2022-01-22,1975,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2,CNC,2022-02-05,2206,NA,2,6,4,7,5,1,2,4,4,14,27,1,11,6,2.1,"Semana","https://www.semana.com/nacion/articulo/el-huracan-ingrid-ya-es-la-tercera-en-intencion-de-voto-a-la-presidencia-despues-de-gustavo-petro-y-rodolfo-hernandez/202220/","Estratificado municipios",NA,presencial,2206,43
 3,YanHass,2022-02-06,1225,NA,1,7,3,2,5,1,2,3,4,12,27,19,8,NA,3.3,"RCN","https://www.rcnradio.com/politica/petro-y-los-indecisos-lideran-la-intencion-de-voto-en-la-gran-encuesta","Estratificado",NA,presencial,1225,NA
-4,CELAG,2022-02-08,2126,NA,3.4,7.2,2.3,NA,11.3,NA,0.1,2.2,3.2,4.1,28.1,NA,11.8,10.1,"CELAG","https://www.celag.org/encuesta-colombia-febrero-2022/",NA,NA,presencial,2126,NA
+4,CELAG,2022-02-08,2126,NA,3.4,7.2,2.3,NA,11.3,NA,0.1,2.2,3.2,4.1,28.1,NA,11.8,10.1,2.19,"CELAG","https://www.celag.org/encuesta-colombia-febrero-2022/",NA,NA,telefonica,2126,NA
