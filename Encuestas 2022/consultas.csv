@@ -1,4 +1,4 @@
-fecha,encuestadora,consulta,candidato,inv_voto,muestra,margen_error
+fecha,encuestadora,consulta,candidato,int_voto,muestra,margen_error
 2022-02-05,CNC,Pacto Historico,Gustavo Petro,77,2206,2.1
 2022-02-05,CNC,Pacto Historico,Francia Marquez,12,2206,2.1
 2022-02-05,CNC,Pacto Historico,Camilo Romero,4,2206,2.1
@@ -32,20 +32,20 @@ fecha,encuestadora,consulta,candidato,inv_voto,muestra,margen_error
 2022-02-05,CNC,Equipo por Colombia,Federico Gutierrez,33.4,2206,2.1
 2022-02-05,CNC,Equipo por Colombia,Alex Char,30,2206,2.1
 2022-02-05,CNC,Equipo por Colombia,David Barguil,6,2206,2.1
-2022-02-05,CNC,Equipo por Colombia,Enrique Peñalosa,21,2206,2.1
+2022-02-05,CNC,Equipo por Colombia,Enrique PeÃ±alosa,21,2206,2.1
 2022-02-05,CNC,Equipo por Colombia,Aydee Lizarazo,5,2206,2.1
 2022-03-04,Invamer,Equipo por Colombia,Federico Gutierrez,28.9,1504,2.92
 2022-03-04,Invamer,Equipo por Colombia,Alex Char,24.7,1504,2.92
 2022-03-04,Invamer,Equipo por Colombia,David Barguil,15.5,1504,2.92
-2022-03-04,Invamer,Equipo por Colombia,Enrique Peñalosa,18.7,1504,2.92
+2022-03-04,Invamer,Equipo por Colombia,Enrique PeÃ±alosa,18.7,1504,2.92
 2022-03-04,Invamer,Equipo por Colombia,Aydee Lizarazo,12.3,1504,2.92
 2022-03-04,Guarumo,Equipo por Colombia,Federico Gutierrez,33.4,2345,2.5
 2022-03-04,Guarumo,Equipo por Colombia,Alex Char,29.2,2345,2.5
 2022-03-04,Guarumo,Equipo por Colombia,David Barguil,21.4,2345,2.5
-2022-03-04,Guarumo,Equipo por Colombia,Enrique Peñalosa,11.8,2345,2.5
+2022-03-04,Guarumo,Equipo por Colombia,Enrique PeÃ±alosa,11.8,2345,2.5
 2022-03-04,Guarumo,Equipo por Colombia,Aydee Lizarazo,4.2,2345,2.5
 2022-02-16,Cifras y Conceptos,Equipo por Colombia,Federico Gutierrez,20,671,4.5
 2022-02-16,Cifras y Conceptos,Equipo por Colombia,Alex Char,24,671,4.5
 2022-02-16,Cifras y Conceptos,Equipo por Colombia,David Barguil,36,671,4.5
-2022-02-16,Cifras y Conceptos,Equipo por Colombia,Enrique Peñalosa,14,671,4.5
+2022-02-16,Cifras y Conceptos,Equipo por Colombia,Enrique PeÃ±alosa,14,671,4.5
 2022-02-16,Cifras y Conceptos,Equipo por Colombia,Aydee Lizarazo,6,671,4.5
