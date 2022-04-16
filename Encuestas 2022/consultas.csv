@@ -1,4 +1,4 @@
-fecha,encuestadora,consulta,candidato,inv_voto,muestra,margen_error
+fecha,encuestadora,consulta,candidato,int_voto,muestra,margen_error
 2/5/2022,CNC,Pacto Historico,Gustavo Petro,77,2206,2.1
 2/5/2022,CNC,Pacto Historico,Francia Marquez,12,2206,2.1
 2/5/2022,CNC,Pacto Historico,Camilo Romero,4,2206,2.1
