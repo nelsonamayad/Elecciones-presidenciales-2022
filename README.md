@@ -2,4 +2,4 @@
 
 https://www.recetas-electorales.com/
 
-Datos abiertos y modelos de pronóstico.
+Datos abiertos para cocinar pronósticos transparentes y replicables.
